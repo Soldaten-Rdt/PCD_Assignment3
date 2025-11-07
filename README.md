@@ -28,3 +28,5 @@ Dilasi dan Clossing memiliki fungsi untuk :
 2. region merging (menyatukan region)
 3. Filling the hole
 4. Edge detection / boundary
+
+Di repository ini akan disediakan kode python yang sudah dibuat dan juga gambar source
